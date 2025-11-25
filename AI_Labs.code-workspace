@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "AI_Labs",
+		"path": "."
+	},
+	{
+		"name": "sample dataset",
+		"path": "../Downloads/sample dataset/sample dataset"
+	}
+],
+  "settings": {}
+}
